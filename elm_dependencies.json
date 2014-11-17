@@ -1,0 +1,10 @@
+{
+    "summary": "Simple charts",
+    "repository": "https://github.com/Dandandan/chart.git",
+    "dependencies": {},
+    "exposed-modules": ["Chart"],
+    "version": "0.0.1",
+    "elm-version": "0.13",
+    "license": "BSD3",
+    "description": ""
+}
